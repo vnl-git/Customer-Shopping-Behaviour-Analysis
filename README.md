@@ -1,2 +1,2 @@
-# Customer-Shopping-Behaviour-AnalysisVendor Performance Analysis
+# Customer-Shopping-Behaviour-Analysis
 
